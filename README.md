@@ -1,4 +1,4 @@
-# 🏨 Hotel Channel Manager — Data Link
+# 🏨 Hotel Channel Manager
 
 Aplicación de escritorio profesional para unificar y analizar reportes de reservas
 de Booking.com, Airbnb y Expedia en un dashboard único con exportación a Excel.
